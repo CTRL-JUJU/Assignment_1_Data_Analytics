@@ -12,4 +12,8 @@ Instructions:
 - Develop a Python implementation of the procedures in the journal.
 - Deadline is before premidterm week.
 
-  
+## JOURNAL
+
+Yunfei Paul Li, Kathleen J Propert & Paul R Rosenbaum (2001) Balanced
+Risk Set Matching, Journal of the American Statistical Association, 96:455, 870-882, DOI:
+10.1198/016214501753208573
